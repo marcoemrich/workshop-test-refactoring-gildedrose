@@ -1,0 +1,3 @@
+Start with
+
+```mvn test```
