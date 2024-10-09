@@ -1,0 +1,56 @@
+# Maven target directory
+/target/
+
+# Maven build logs
+mvnw
+mvnw.cmd
+/.mvn/
+!**/src/main/**
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE directories
+# Eclipse
+.project
+.classpath
+/.settings/
+/target/
+/bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.orig
